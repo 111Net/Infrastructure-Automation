@@ -1,11 +1,9 @@
-# Infrastructure-Automation
-Onboarding-Starter project that includes the usage of Git and other CI/CD tools
 Starter project that includes the usage of Git and other CI/CD tools. 
-This project will be a simple Python application that uses Flask to create a basic web server. Using Git for version control, Jenkins for continuous integration, and Docker for containerization.
-Note: This project, to gives new entrants a good idea of how to use Git, Jenkins, and Docker in a real-world scenario. 
-As they get more comfortable, we will start to explore more advanced topics like automated testing, deployment strategies, and infrastructure as code.
+This project is a simple Python application that uses Flask to create a basic web server. 
+Using Git for version control, Jenkins for continuous integration, and Docker for containerization.
+Note: This project is designed to give new entrants a good idea of how to use Git, Jenkins, and Docker in a real-world scenario. 
+As we get more comfortable, we will explore more advanced topics like automated testing, deployment strategies, and infrastructure as code.
 ………………………………………………………………………………………….
-
 Step 1: Set Up Your Development Environment
 •	Install Git, Python, Flask, Docker, and Jenkins on your local machine.
 •	Set up a GitHub account if you don’t already have one.
@@ -48,15 +46,9 @@ git push origin main
 Step 7: Monitor Your Jenkins Job
 •	After pushing changes, go to Jenkins and watch your job build.
 
-
-
-
-
-
-
-
 Preparing Local Machine:
-Stage 1: To install Python3 and Git on your local (Ubuntu) machine, and to create a repository on GitHub:
+Stage 1: 
+To install Python3 and Git on your local (Ubuntu) machine, and to create a repository on GitHub:
 Step 1: Install Python3
 •	Open a terminal.
 •	Update the package list using the following command:
