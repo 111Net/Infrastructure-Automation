@@ -3,7 +3,6 @@ This project is a simple Python application that uses Flask to create a basic we
 Using Git for version control, Jenkins for continuous integration, and Docker for containerization.
 Note: This project is designed to give new entrants a good idea of how to use Git, Jenkins, and Docker in a real-world scenario. 
 After this project introduce and explore more advanced topics like automated testing, deployment strategies, and infrastructure as code.
-########
 
 Step 1: Set Up Your Development Environment
 •	Install Git, Python, Flask, Docker, and Jenkins on your local machine.
